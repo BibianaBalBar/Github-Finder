@@ -97,9 +97,9 @@ export class User extends Component {
           </div>
         </div>
         <div className='card text-center'>
-          <div className='badge badge-primary'>Followers: {followers}</div>
+          <div className='badge badge-light'>Followers: {followers}</div>
           <div className='badge badge-success'>Following: {following}</div>
-          <div className='badge badge-light'>Public Repos: {public_repos}</div>
+          <div className='badge badge-danger'>Public Repos: {public_repos}</div>
           <div className='badge badge-dark'>Public Gits: {public_gists}</div>
         </div>
         <Repos repos={repos} />
