@@ -1,6 +1,6 @@
 # Github Finder
 
-## React.js project.
+## React.js project. Searches Github users.
 
 ![githubFinder](https://github.com/BibianaBalBar/Github-Finder/blob/master/img/github_finder.gif)
 
