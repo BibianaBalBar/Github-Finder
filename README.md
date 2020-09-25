@@ -1,3 +1,13 @@
+# Github Finder
+
+## React.js project.
+
+![githubFinder](https://github.com/BibianaBalBar/Github-Finder/blob/master/img/github_finder.gif)
+
+Build based on [Brad Traversy](https://github.com/bradtraversy) tutorial course ["React Front to Back"](https://www.udemy.com/course/modern-react-front-to-back/).
+
+     //
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
